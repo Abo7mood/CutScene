@@ -5,6 +5,8 @@ Welcome to the **CutScene Project**! 🎥 This is an immersive **3D project** de
 
 https://github.com/user-attachments/assets/5dcde047-4a86-44c4-8cbc-a8182d826c4f
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
 
 ## 🎮 Gameplay Details 🎮
 
