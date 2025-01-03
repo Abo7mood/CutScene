@@ -2,6 +2,16 @@
 
 Welcome to the **CutScene Project**! 🎥 This is an immersive **3D project** developed with the **Unity Engine (URP)**. The project features stunning visuals, cinematic cutscenes, and animated characters with high-quality paid assets worth over $60. Designed for creating engaging storytelling experiences, this project is both visually appealing and technically robust.
 
+
+https://github.com/user-attachments/assets/5dcde047-4a86-44c4-8cbc-a8182d826c4f
+
+
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows 🖥️  Web 🌍
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 3D Game 🌍
+
 ## 🌟 Key Features 🌟
 
 - **Cinematic Cutscenes**: Includes a professionally designed cutscene to deliver an engaging narrative experience. 🎬
@@ -43,3 +53,10 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
+# Story of this game 📚
+
+This project was created as a freelance job for a client who wanted to develop a storytelling tool with cinematic quality. The client envisioned using high-quality assets and animations to create cutscenes that could serve as the foundation for interactive stories or cinematic presentations. Collaborating on this project allowed me to explore Unity's Universal Render Pipeline (URP) and deliver a polished product that met the client’s expectations.
+
+# 🎮 Demo 🎮
+
+Unfortunately, there is no demo available for this project as it was tailored specifically for the client's requirements.
