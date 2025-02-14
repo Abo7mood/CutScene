@@ -3,7 +3,9 @@
 
 Welcome to the **CutScene Project**! 🎥 This is an immersive **3D project** developed with the **Unity Engine (URP)**. The project features stunning visuals, cinematic cutscenes, and animated characters with high-quality paid assets worth over $60. Designed for creating engaging storytelling experiences, this project is both visually appealing and technically robust.
 
-![image](https://github.com/user-attachments/assets/5dcde047-4a86-44c4-8cbc-a8182d826c4f)
+
+https://github.com/user-attachments/assets/f43c8de5-3308-4548-b1e2-f29fce1a94a0
+
 
 ## 🔥 Solo Project 🔥
 This project was developed independently as part of my personal and freelancing experience.
